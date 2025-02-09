@@ -1,0 +1,17 @@
+<svg width="54.000000" height="61.887634" viewBox="0 0 54 61.8876" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_541">
+			<rect rx="0.000000" width="53.000000" height="60.887642" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect rx="0.000000" width="53.000000" height="60.887642" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_541)">
+		<rect rx="19.000000" width="54.000000" height="54.000000" fill="#02897A" fill-opacity="1.000000"/>
+		<rect rx="19.000000" width="54.000000" height="54.000000" stroke="#FFFFFF" stroke-opacity="0" stroke-width="0.000000"/>
+		<rect rx="19.000000" width="54.000000" height="54.000000" stroke="#FF9900" stroke-opacity="0" stroke-width="0.000000"/>
+		<path d="M22.97 19.16L32.11 28.31C32.28 28.47 32.33 28.72 32.24 28.92C32.15 29.14 31.94 29.28 31.71 29.28L28.3 29.28L30.09 33.53C30.22 33.83 30.08 34.16 29.79 34.28L28.21 34.95C27.91 35.08 27.58 34.93 27.46 34.65L25.75 30.61L22.97 33.4C22.86 33.5 22.72 33.57 22.57 33.57C22.5 33.57 22.41 33.55 22.35 33.52C22.14 33.43 22 33.23 22 33L22 19.57C22 19.33 22.14 19.13 22.35 19.04C22.41 19.01 22.5 19 22.57 19C22.72 19 22.86 19.05 22.97 19.16Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
